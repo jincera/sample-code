@@ -1,9 +1,9 @@
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 
-# Create a local StreamingContext with two working threads and a batch interval of 1 second
+# Create a local StreamingContext with two working threads and a batch interval of 2 seconds
 sc = SparkContext("local[2]", "NetworkWordCount")
-ssc = StreamingContext(sc, 1)
+ssc = StreamingContext(sc, 2)
 
 # Create a DStream
 lines = ssc.socketTextStream("localhost", 3333)
