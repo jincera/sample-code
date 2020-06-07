@@ -6,7 +6,7 @@
 
 ### 1. Hadoop
 
-Conéctese a nuestro servidor de Hadoop (148.205.176.167).  En la carpeta `/home/jincera/MaterialExReposición` encontrará los archivos `OwidDataCovidModif.csv`, `OwidData155.csv` y `EncabezadosOwidCovid.txt`. Son archivos que tienen un subconjunto de la data colectada por el sitio [ourworldindata](http://ourworldindata.org) sobre la pandemia Covid-19.
+Conéctese a nuestro servidor de Hadoop (148.205.....).  En la carpeta `/home/jincera/MaterialExReposición` encontrará los archivos `OwidDataCovidModif.csv`, `OwidData155.csv` y `EncabezadosOwidCovid.txt`. Son archivos que tienen un subconjunto de la data colectada por el sitio [ourworldindata](http://ourworldindata.org) sobre la pandemia Covid-19.
 
 
 
